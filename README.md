@@ -31,6 +31,6 @@ Group 3
 
 Multiple python applications and corresponding patterns can be found in `official_tests` and `public_tests` zip files.
 
-Run the program:
+Run the tool:
 
     python ./bo-analyser.py program.py patterns.json
