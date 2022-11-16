@@ -1,3 +1,9 @@
+Instituto Superior Técnico
+
+Master's Degree in Computer Science and Engineering
+
+Software Security 2021/2022
+
 # Static Analysis Tool for Detecting Security Vulnerabilities in Python Applications
 
 A large class of vulnerabilities in applications originates in programs that enable user input information to
